@@ -16,8 +16,8 @@ async def get_info(
     current_utc_time = datetime.now(utc).strftime('%Y-%m-%dT%H:%M:%SZ')
 
     # GitHub file and repo URLs
-    github_file_url = "https://github.com/username/repo/blob/main/file_name.ext"
-    github_repo_url = "https://github.com/username/repo"
+    github_file_url = "https://github.com/preciousajorgba/HNGX/blob/main/task1.py"
+    github_repo_url = "https://github.com/preciousajorgba/HNGX"
 
     # Response JSON
     response_data = {
